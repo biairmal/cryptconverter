@@ -145,7 +145,7 @@ class _TrianglePageState extends State<TrianglePage> {
       _result = convert.encrypt(text);
     }
     else{
-      //_result = convert.decrypt(text);
+      _result = convert.decrypt(text);
     }
     setState(() {
       if (_result == null || _result ==""){

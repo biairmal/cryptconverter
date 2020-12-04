@@ -6,24 +6,17 @@ Features :
 
 # Screenshots
 
-- Splash screen
+1. Splash screen
     ![Splashscreen](/Screenshots/Splashscreen.png)
-    **figure -**
-- Vignere 
+2. Vignere 
     ![Vignere Cipher](/Screenshots/VignereCipher.png)\
-    **figure -**
     - Encryption
         ![Vignere Encryption](/Screenshots/VignereCipherEnc.png)
-        **figure -**
     - Decription
         ![Vignere Decryption](/Screenshots/VignereCipherDec.png)
-        **figure -**
-- Triangle
+3. Triangle
     ![Triangle Cipher](/Screenshots/TriangleCipher.png)
-    **figure -**
     - Encryption
         ![Triangle Encryption](/Screenshots/TriangleCipherEnc.png)
-        **figure -**
     - Decrpytion
         ![Triangle Decryption](/Screenshots/TriangleCipherDec.png)
-        **figure -**

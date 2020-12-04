@@ -9,7 +9,7 @@ Features :
 1. Splash screen
 
     ![Splashscreen](/Screenshots/Splashscreen.png)
-2. Vignere 
+2. Vignere Cipher
 
     ![Vignere Cipher](/Screenshots/VignereCipher.png)\
     - Encryption
@@ -18,12 +18,12 @@ Features :
     - Decription
 
         ![Vignere Decryption](/Screenshots/VignereCipherDec.png)
-3. Triangle
+3. Triangle Cipher
 
     ![Triangle Cipher](/Screenshots/TriangleCipher.png)
     - Encryption
 
         ![Triangle Encryption](/Screenshots/TriangleCipherEnc.png)
     - Decrpytion
-    
+
         ![Triangle Decryption](/Screenshots/TriangleCipherDec.png)
